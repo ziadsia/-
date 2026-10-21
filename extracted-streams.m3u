@@ -1,0 +1,9 @@
+#EXTM3U
+#PLAYLIST:Extracted Streams - CODECS.COM
+
+#EXTINF:-1,HLS - Stream 1
+https://hls-cdn77.xvideos-cdn.com/E9YSeu8ECf2lXT2E-5l5mA==,1792593986/bc170975-5fe8-4a10-bcc2-ef05c94c49df/6/hls.m3u8
+
+#EXTINF:-1,VIDEO - Low Quality - Stream 2
+https://mp4-cdn77.xvideos-cdn.com/bc170975-5fe8-4a10-bcc2-ef05c94c49df/6/mp4_sd.mp4?secure=iBeA2ghXsa26x-bw-0t4hQ==,1792593986
+
